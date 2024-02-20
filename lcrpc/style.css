@@ -2,7 +2,7 @@
     --size: 70px;
 }
 body {
-    background: #ffffff;
+    background: #000000;
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 #box {
     width: var(--size);
     height: var(--size);
-    background: #fdd;
+    background: #5eff00;
     border-radius: 5px;
     animation: spin .5s linear infinite;
 }
